@@ -1,0 +1,21 @@
+.animation-modal-body {
+    margin-top: 25px;
+}
+
+.name-field {
+    margin-bottom: 10px;
+}
+
+.name-field span {
+    margin-right: 5px;
+}
+
+.ant-modal-content .ant-modal-close {
+    z-index: 2;
+}
+
+.animation-step-list {
+   width: 100% !important;
+   box-shadow: unset !important;
+   height: 60vh;
+}

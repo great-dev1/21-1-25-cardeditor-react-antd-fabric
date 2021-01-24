@@ -1,0 +1,53 @@
+.panel-list-item {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    height: 100px;
+    margin: 0 0 10px 0;
+}
+
+.panel-list-item-page {
+    width: 75%;
+    height: 100%;
+    float: left;
+    display: inline;
+    border-radius: 10px;
+}
+
+.border-black {
+    border: 3px solid black;
+}
+
+.border-green {
+    border: 3px solid #08979c;
+}
+
+.panel-list {
+    width: 250px;
+    min-height: 100%;
+    padding: 0 5px 0 15px;
+    margin: 0 10px 0 10px;
+    background: #fff;
+}
+
+.panel-header {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px 0 20px 0;
+}
+
+.panel-header .rde-action-btn {
+    margin-right: 10px;
+}
+
+.panel-list-item-page-preview {
+    width: 100%;
+    height: 100%;
+}
+
+.panel-list-item-btn-group {
+    display: flex;
+    flex-direction: column;
+}
